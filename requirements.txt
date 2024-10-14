@@ -1,0 +1,5 @@
+PyQt5==5.15.2
+pygame==2.6.0
+music21==9.1.0
+midiutil==1.2.1
+playsound==1.2.2
