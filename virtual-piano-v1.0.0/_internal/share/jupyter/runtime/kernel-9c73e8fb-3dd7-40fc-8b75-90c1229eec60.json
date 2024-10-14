@@ -1,0 +1,13 @@
+{
+  "shell_port": 56284,
+  "iopub_port": 56285,
+  "stdin_port": 56286,
+  "control_port": 56288,
+  "hb_port": 56287,
+  "ip": "127.0.0.1",
+  "key": "a3ce35fe-cd1538377099a9b23e9777f8",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Solscan\\Jupyter\\solana_transactions.ipynb"
+}

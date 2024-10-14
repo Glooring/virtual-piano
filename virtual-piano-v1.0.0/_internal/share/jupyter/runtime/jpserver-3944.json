@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 3944,
+  "port": 8888,
+  "root_dir": "D:\\Solscan\\Jupyter",
+  "secure": false,
+  "sock": "",
+  "token": "9b4896750074865569afe240d3d72d030f093d4eafb1b841",
+  "url": "http://localhost:8888/",
+  "version": "2.7.3"
+}

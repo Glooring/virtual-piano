@@ -1,0 +1,13 @@
+{
+  "shell_port": 56499,
+  "iopub_port": 56500,
+  "stdin_port": 56501,
+  "control_port": 56503,
+  "hb_port": 56502,
+  "ip": "127.0.0.1",
+  "key": "34e98ed1-07b460a998bfe81f014560fd",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Solscan\\Jupyter\\Untitled.ipynb"
+}

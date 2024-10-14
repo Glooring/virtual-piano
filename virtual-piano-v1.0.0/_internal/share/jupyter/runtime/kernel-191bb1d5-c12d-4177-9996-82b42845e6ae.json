@@ -1,0 +1,13 @@
+{
+  "shell_port": 61381,
+  "iopub_port": 61382,
+  "stdin_port": 61383,
+  "control_port": 61385,
+  "hb_port": 61384,
+  "ip": "127.0.0.1",
+  "key": "e12c2a0a-6812d77b779f578376bfa2ff",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Exit Pois\\Generare_Grid.ipynb"
+}

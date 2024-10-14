@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 35560,
+  "port": 8888,
+  "root_dir": "D:\\cv_projects\\Python Projects\\Exit Pois\\Exit Pois",
+  "secure": false,
+  "sock": "",
+  "token": "fd7174b1f0292b27ad587adb74b27b93a67d27069c83b165",
+  "url": "http://localhost:8888/",
+  "version": "2.14.2"
+}

@@ -1,0 +1,13 @@
+{
+  "shell_port": 50246,
+  "iopub_port": 50247,
+  "stdin_port": 50248,
+  "control_port": 50250,
+  "hb_port": 50249,
+  "ip": "127.0.0.1",
+  "key": "1a231d7f-01cc6aaef393468ae371599c",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Solscan\\Jupyter\\MEV Telegram Bot.ipynb"
+}

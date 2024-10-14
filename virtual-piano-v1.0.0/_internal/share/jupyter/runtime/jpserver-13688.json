@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 13688,
+  "port": 8888,
+  "root_dir": "D:\\Python Test\\Machine Learning Projects",
+  "secure": false,
+  "sock": "",
+  "token": "d0629c0dc739f11a760833332f3dd6dce9acd0679aad55ab",
+  "url": "http://localhost:8888/",
+  "version": "2.14.2"
+}

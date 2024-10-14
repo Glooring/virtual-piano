@@ -1,0 +1,13 @@
+{
+  "shell_port": 49892,
+  "iopub_port": 49893,
+  "stdin_port": 49894,
+  "control_port": 49896,
+  "hb_port": 49895,
+  "ip": "127.0.0.1",
+  "key": "5df93dd2-82af889b816c73206e9bbaf1",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Solscan\\Jupyter\\MEV Bot.ipynb"
+}

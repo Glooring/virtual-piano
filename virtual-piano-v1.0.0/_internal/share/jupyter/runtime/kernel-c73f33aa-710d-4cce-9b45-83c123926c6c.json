@@ -1,0 +1,13 @@
+{
+  "shell_port": 59533,
+  "iopub_port": 59534,
+  "stdin_port": 59535,
+  "control_port": 59537,
+  "hb_port": 59536,
+  "ip": "127.0.0.1",
+  "key": "ece0a0fb-dda096ded316e480fcc760a3",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\piano_transcription_inference-master\\piano_transcription_inference-master\\Untitled.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 1140,
+  "port": 8888,
+  "root_dir": "D:\\piano_transcription_inference-master\\piano_transcription_inference-master",
+  "secure": false,
+  "sock": "",
+  "token": "fd3c6a64c19878bc4c5a6808be7f8bc870115573c72fccdc",
+  "url": "http://localhost:8888/",
+  "version": "2.7.3"
+}

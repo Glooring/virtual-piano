@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 4440,
+  "port": 8888,
+  "root_dir": "D:\\Scripts & Tools\\Joc",
+  "secure": false,
+  "sock": "",
+  "token": "51eb3682de554897f036d9136be3f2a69122abbf66fa71aa",
+  "url": "http://localhost:8888/",
+  "version": "2.7.3"
+}

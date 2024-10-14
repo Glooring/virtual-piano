@@ -1,0 +1,13 @@
+{
+  "shell_port": 52222,
+  "iopub_port": 52223,
+  "stdin_port": 52224,
+  "control_port": 52226,
+  "hb_port": 52225,
+  "ip": "127.0.0.1",
+  "key": "d010428d-90d60089db6280aaa782a6d3",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Solscan\\Jupyter\\token_info (1) (1).ipynb"
+}

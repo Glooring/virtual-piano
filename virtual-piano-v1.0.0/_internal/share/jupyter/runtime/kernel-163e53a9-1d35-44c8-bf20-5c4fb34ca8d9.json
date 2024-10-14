@@ -1,0 +1,13 @@
+{
+  "shell_port": 54154,
+  "iopub_port": 54155,
+  "stdin_port": 54156,
+  "control_port": 54158,
+  "hb_port": 54157,
+  "ip": "127.0.0.1",
+  "key": "9542d7be-d5bbfe4c8ac98ad41fb790dc",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Scripts & Tools\\Joc\\Joc_Test.ipynb"
+}

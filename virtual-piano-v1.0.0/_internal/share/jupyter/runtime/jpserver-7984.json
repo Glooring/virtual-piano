@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 7984,
+  "port": 8888,
+  "root_dir": "D:\\Exit Pois",
+  "secure": false,
+  "sock": "",
+  "token": "68a6baca0e2dc86d367860e328685b395d5244723548443c",
+  "url": "http://localhost:8888/",
+  "version": "2.7.3"
+}

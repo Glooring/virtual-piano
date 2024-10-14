@@ -1,0 +1,13 @@
+{
+  "shell_port": 55226,
+  "iopub_port": 55227,
+  "stdin_port": 55228,
+  "control_port": 55230,
+  "hb_port": 55229,
+  "ip": "127.0.0.1",
+  "key": "5b9d8de9-384852d68850470c32bf1419",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Scripts & Tools\\piano_transcription_inference-master\\piano_transcription_inference-master\\Piano Transcription.ipynb"
+}

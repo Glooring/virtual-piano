@@ -1,0 +1,13 @@
+{
+  "shell_port": 50137,
+  "iopub_port": 50138,
+  "stdin_port": 50139,
+  "control_port": 50141,
+  "hb_port": 50140,
+  "ip": "127.0.0.1",
+  "key": "fb25220d-2fcf4521bc53ca1a01b052ca",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\Solscan\\Jupyter\\JSON-RPC.ipynb"
+}
