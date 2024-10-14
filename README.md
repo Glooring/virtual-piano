@@ -31,7 +31,7 @@ The project also provides a pre-built executable (`main.exe`), making it easy fo
 Whether you're a regular user or developer, you can run the application with the provided `.exe` file. There is no need for Python or additional setup. Simply follow these steps:
 
 1. **Download the Project Archive**  
-   Download the latest release from the [Releases](https://github.com/Glooring/virtual-piano/releases) page or directly using [this link](https://github.com/Glooring/virtual-piano/releases/download/v1.0.0/virtual-piano-v1.0.0.zip), which includes the `virtual-piano-v1.0.0` folder containing `main.exe` and all necessary internal dependencies.
+   Download the latest release from the [Releases](https://github.com/Glooring/virtual-piano/releases) page or directly using [this link](https://github.com/Glooring/virtual-piano/releases/download/v1.0.0/virtual-piano-v1.0.0-release.zip), which includes the `virtual-piano-v1.0.0` folder containing `main.exe` and all necessary internal dependencies.
 
 2. **Extract the Zip File**  
    After downloading the `.zip` file, extract its contents to a location on your computer.
